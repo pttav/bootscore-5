@@ -1,0 +1,405 @@
+# Copyright (C) 2017 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: _s 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2021-03-26 10:32+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-04-12 18:01+0300\n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.4.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language: fi\n"
+
+#: single-sidebar-none.php:28 single-full-width-image.php:38 single.php:29
+#: single-sidebar-left.php:31
+msgid " by "
+msgstr " tekijä "
+
+#: inc/comment-list.php:49
+#, php-format
+msgid "%s <span class=\"says d-none\">says:</span>"
+msgstr "%s <span class=\"says d-none\">sanoo:</span>"
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:38
+msgid ", "
+msgstr ""
+
+#: languages/plugin-translations.php:5
+msgid "/privacy-policy"
+msgstr "/tatu-ry/tietosuoja"
+
+#: inc/comment-list.php:54
+#, php-format
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "kello %1$s  %2$s"
+
+#: functions.php:214
+msgid "404 Page"
+msgstr "404 Sivu"
+
+#. Description of the theme
+msgid ""
+"A powerful Bootstrap 5 WordPress Starter Theme with WooCommerce Support. <a "
+"href=\"https://bootscore.me/category/documentation/\">Documentation</a>. "
+"This theme gives you full control whatever you do and the full freedom to "
+"design whatever you want. It comes with a wide selection of category, page, "
+"post, author and archive templates as well as sidebar, header, footer and "
+"404 widgets. There are no customizer settings in the backend. All settings "
+"can only be made by touching the code. Some CSS, HTML, PHP and JS Skills are "
+"required to customize it."
+msgstr ""
+
+#: languages/plugin-translations.php:7
+msgid "Accept"
+msgstr "Hyväksy"
+
+#: functions.php:120 functions.php:132 functions.php:144 functions.php:156
+#: functions.php:168 functions.php:180 functions.php:192 functions.php:204
+#: functions.php:216
+msgid "Add widgets here."
+msgstr "Lisää widgettejä tänne."
+
+#: languages/plugin-translations.php:2
+msgid "All"
+msgstr "Kaikki"
+
+#: 404.php:27
+msgid "Back Home &raquo;"
+msgstr "Takaisin kotisivulle &raquo;"
+
+#. Author of the theme
+msgid "Bastian Kreiter"
+msgstr ""
+
+#. Name of the template
+msgid "Blank with container"
+msgstr ""
+
+#. Name of the template
+msgid "Blank without container"
+msgstr ""
+
+#. Name of the theme
+msgid "bootScore 5"
+msgstr ""
+
+#: comments.php:100
+msgid "Cancel"
+msgstr "Peruuta"
+
+#: header.php:193 header-woocommerce-01.php:167
+msgid "Cart"
+msgstr "Ostoskori"
+
+#: header.php:131 header-woocommerce-01.php:129
+msgid "Close account"
+msgstr "Sulje tunnus"
+
+#: header.php:86 header-default.php:84 header-woocommerce-01.php:84
+msgid "Close menu"
+msgstr "Sulje valikko"
+
+#: comments.php:55 comments.php:73
+msgid "Comment navigation"
+msgstr "Kommenttinavigaatio"
+
+#: comments.php:91
+msgid "Comments are closed."
+msgstr "Kommentit on suljettu."
+
+#. 1: number of comments, 2: post title
+#: comments.php:38
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Comments on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s kommentti &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s kommenttia &ldquo;%2$s&rdquo;"
+
+#. %s: post title
+#: comments.php:34
+#, php-format
+msgctxt "comments title"
+msgid "One Comment &ldquo;%s&rdquo;"
+msgstr "Yksi kommentti &ldquo;%s&rdquo;"
+
+#: header.php:159 header.php:182 header-woocommerce-01.php:156
+msgid "Continue shopping"
+msgstr ""
+
+#: languages/plugin-translations.php:4
+msgid ""
+"Cookies help us deliver our services. By using our services, you agree to "
+"our use of cookies."
+msgstr ""
+"Käytämme evästeitä käyttökokemuksen parantamiseksi. Käyttämällä sivua "
+"hyväksyt evästeiden käyttömme."
+
+#: woocommerce/checkout/form-shipping.php:35
+msgid "Delivery details"
+msgstr "Toimituksen tiedot"
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:139 inc/comment-list.php:32 inc/comment-list.php:57
+msgid "Edit"
+msgstr "Muokkaa"
+
+#: comments.php:125 woocommerce/single-product-reviews.php:95
+msgid "Email* (will not be published)"
+msgstr "Sähköposti* (ei julkaista)"
+
+#: functions.php:166
+msgid "Footer 1"
+msgstr "Alaosa 1"
+
+#: functions.php:178
+msgid "Footer 2"
+msgstr "Alaosa 2"
+
+#: functions.php:190
+msgid "Footer 3"
+msgstr "Alaosa 3"
+
+#: functions.php:202
+msgid "Footer 4"
+msgstr "Alaosa 4"
+
+#: functions.php:66
+msgid "Footer Menu"
+msgstr "Alaosan valikko"
+
+#. Name of the template
+msgid "Full Width Image"
+msgstr "Koko sivun levyinen kuva"
+
+#. Name of the template
+msgid "Full width image"
+msgstr "Koko sivun levyinen kuva"
+
+#: woocommerce/myaccount/my-account-offcanvas.php:17
+msgid "Hello"
+msgstr "Hei"
+
+#: woocommerce/myaccount/my-account-offcanvas.php:22
+msgid ""
+"Here you can view your recent orders, manage your shipping and billing "
+"addresses, and edit your password and account details."
+msgstr ""
+"Täällä voit tarkistella viimeaikaisia tilauksiasi ja muokata tietojasi."
+
+#. URI of the theme
+msgid "https://bootscore.me/"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://crftwrk.de"
+msgstr ""
+
+#: inc/template-tags.php:256
+msgid "Internet Explorer detected"
+msgstr "Selaimesi on Internet Explorer."
+
+#: template-parts/content-none.php:43
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "Kohdetta ei löytynyt. Kokeile hakua."
+
+#. %s: post title
+#: comments.php:98 inc/template-tags.php:110
+msgid "Leave a Comment"
+msgstr "Jätä Kommentti"
+
+#: inc/template-tags.php:167
+msgid "Leave a comment"
+msgstr "Jätä kommentti"
+
+#: comments.php:99
+#, php-format
+msgid "Leave a Comment to %s"
+msgstr "Jätä kommentti artikkeliin %s"
+
+#. Name of the template
+msgid "Left Sidebar"
+msgstr "Vasen sivupalkki"
+
+#: languages/plugin-translations.php:3
+msgid "Look what I found: "
+msgstr "Katso mitä löysin:"
+
+#: functions.php:65
+msgid "Main Menu"
+msgstr "Päävalikko"
+
+#: languages/plugin-translations.php:6
+msgid "More Information"
+msgstr "Lisätietoja"
+
+#: comments.php:121 woocommerce/single-product-reviews.php:89
+msgid "Name*"
+msgstr "Nimi*"
+
+#: comments.php:59 comments.php:77
+msgid "Newer Comments"
+msgstr "Uudemmat kommentit"
+
+#. Name of the template
+msgid "No Sidebar"
+msgstr "Ei sivupalkkia"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found for"
+msgstr "Mitään ei löytynyt haulla"
+
+#: comments.php:58 comments.php:76
+msgid "Older Comments"
+msgstr "Vanhemmat kommentit"
+
+#: inc/template-tags.php:258
+msgid "or"
+msgstr "tai"
+
+#: 404.php:22
+msgid "Page not found."
+msgstr "Sivua ei löytynyt."
+
+#: page.php:43 page-blank-without-container.php:21 page-sidebar-none.php:33
+#: page-sidebar-left.php:38 page-blank-with-container.php:21
+msgid "Pages:"
+msgstr "Sivut:"
+
+#: functions.php:411
+msgid "Password"
+msgstr "Salasana"
+
+#: inc/comment-list.php:32
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template-tags.php:258
+msgid "Please use a modern and secure web browser like"
+msgstr "Vaihda uuteen ja turvalliseen selaimeen kuten"
+
+#: inc/template-tags.php:85
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: comments.php:101
+msgid "Post Comment"
+msgstr "Julkaise kommentti"
+
+#: author.php:72
+msgid "Read more"
+msgstr "Lue lisää"
+
+#: category-equal-height.php:63 category-sidebar-left.php:63
+#: author-masonry.php:73 archive.php:63 author-equal-height.php:73
+#: archive-sidebar-left.php:65 archive-equal-height-sidebar-right.php:62
+#: category.php:61 archive-equal-height.php:63 index.php:78 index.php:134
+#: category-masonry.php:63 author-sidebar-left.php:75
+#: author-equal-height-sidebar-right.php:72 archive-masonry.php:63
+#: category-equal-height-sidebar-right.php:63
+#: template-parts/content-search.php:42
+msgid "Read more »"
+msgstr "Lue lisää »"
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:25
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Oletko valmis julkaisemaan ensimmäisen artikkelisi? <a href=\"%1$s\">Aloita "
+"tästä</a>."
+
+#: inc/comment-list.php:111
+msgid ""
+"Save my name, email, and website in this browser for the next time I comment."
+msgstr "Tallenna nimeni, sähköpostini ja nettisivuni selaimen välimuistissa."
+
+#: searchform.php:3
+msgid "Search"
+msgstr "Haku"
+
+#. %s: search query.
+#: search.php:29
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Hakutulokset haulla %s:"
+
+#: woocommerce/loop/orderby.php:27
+msgid "Shop order"
+msgstr "Kaupan järjestys"
+
+#: functions.php:142
+msgid "Sidebar"
+msgstr "Sivupalkki"
+
+#. Name of the template
+msgid "Sidebar left"
+msgstr "Sivupalkki (vasen)"
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr "Haullasi ei löytynyt sisältöä. Kokeile uudelleen muilla hakusanoilla."
+
+#: comments.php:103
+msgid "Start typing..."
+msgstr "Aloita kirjoittaminen..."
+
+#: functions.php:412
+msgid "Submit"
+msgstr "Julkaise"
+
+#. 1: list of tags.
+#: inc/template-tags.php:191
+#, php-format
+msgid "Tagged %1$s"
+msgstr "Tagätty %1$s"
+
+#: inc/template-tags.php:257
+msgid "This website will offer limited functionality in this browser."
+msgstr "Tämä nettisivu ei tule toimimaan täysin tässä selaimessa."
+
+#: inc/template-tags.php:258
+msgid "to display this site correctly."
+msgstr "nähdäksesi tämän sivun oikein."
+
+#: woocommerce/cart/mini-cart.php:118
+msgid "To find out your shipping cost , Please proceed to checkout."
+msgstr ""
+
+#: functions.php:154
+msgid "Top Footer"
+msgstr ""
+
+#: functions.php:118
+msgid "Top Nav"
+msgstr ""
+
+#: functions.php:130
+msgid "Top Nav Search"
+msgstr ""
+
+#: comments.php:130
+msgid "Website"
+msgstr "Nettisivu"
+
+#: inc/comment-list.php:64
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:134
+msgid "Your review...*"
+msgstr ""
